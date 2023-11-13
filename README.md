@@ -1,2 +1,2 @@
-# encourage_power
+# Encourage_Power
 Random encouragement designs evaluate treatments that aim to increase participation in a program or activity. These experiments can also assess the effects of participation on longer-term outcomes by estimating the (CACE) complier average causal effect parameter that pertains to those who comply with their treatment assignments. Encourage_Power is a Shiny R dashboard that performs power calculations for these encouragement designs using the methods in Schochet (Journal of Educational and Behavioral Statistics, 2024). The calculations are conducted for commonly used experimental designs—including nonclustered, clustered, and random block designs—and allow for the inclusion of model covariates to improve precision.
